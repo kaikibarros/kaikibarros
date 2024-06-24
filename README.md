@@ -1,6 +1,6 @@
-## Olá! me chamo Kaiki, atualmente estudante de sistemas para internet e jovem aprendiz no setor técnico da TV Tribuna PE
+## Olá! me chamo Kaiki, atualmente estudante de sistemas para internet 
 
-- 🔭 Jovem Aprendiz no setor técnico da TV Tribuna PE
+- 📺 Jovem Aprendiz no setor técnico da TV Tribuna PE
 - 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
 #

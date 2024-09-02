@@ -1,7 +1,7 @@
 ## Olá! me chamo Kaiki, atualmente estudante de sistemas para internet 
 
 - 📺 Jovem Aprendiz no setor técnico da TV Tribuna PE
-- 🌱 Estudando Java
+- 🌱 Futuro desenvolvedor Back-End
 - 😄 Pronouns: ele/dele
 #
 <div>

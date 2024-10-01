@@ -2,7 +2,7 @@
 
 - 📺 Estagiário no setor técnico da TV Tribuna PE
 - 🌱 Futuro desenvolvedor Back-End
-- 😄 Pronouns: ele/dele
+- 😄 "Só aprendemos com os erros"
 #
 <div>
 

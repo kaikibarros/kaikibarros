@@ -1,7 +1,7 @@
 ## Olá! me chamo Kaiki, atualmente estudante de sistemas para internet 
 
 - 📺 Estagiário no setor técnico da TV Tribuna PE
-- 🌱 Futuro desenvolvedor Back-End
+- 🌱 Futuro desenvolvedor de software
 - 😄 "Só aprendemos com os erros"
 #
 <div>

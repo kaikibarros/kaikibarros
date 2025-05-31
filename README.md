@@ -1,6 +1,5 @@
 ## Olá! me chamo Kaiki, atualmente estudante de sistemas para internet 
 
-(Kaiki, vc deixou seuy github aberto, vacilão)
 
 - 📺 Estagiário no setor técnico da TV Tribuna PE
 - 🌱 Futuro desenvolvedor de software

@@ -2,7 +2,7 @@
 
 
 - 📺 Estagiário no setor técnico da TV Tribuna PE
-- 🌱 Futuro desenvolvedor de software
+- 🌱 Desenvolvedor Web
 - 😄 "Só aprendemos com os erros"
 #
 <div>

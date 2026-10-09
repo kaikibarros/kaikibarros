@@ -1,12 +1,9 @@
 ## Olá! Eu sou Kaiki 👋
-Estudante de **Sistemas para Internet**, com foco em **Desenvolvimento Web** e construção de projetos modernos, responsivos e funcionais.
+Analista de Infraestrutura com conhecimentos em Automações 
 
-- 📺 Estagiário no setor técnico da **TV Tribuna PE**
-- 💻 Foco principal em **Front-end**, com experiência em **JavaScript, React, HTML, CSS e Tailwind**
 - ☕ Também desenvolvendo habilidades em **Java + Spring Boot**
 - 🐍 Explorando **Python** para lógica, automação e projetos de dados/ML
-- 🚀 Em constante evolução como desenvolvedor
-- 😄 *"Só aprendemos com os erros"*
+- 🚀 Em constante evolução como desenvolvedor e garoto da TI
 
 #
 
